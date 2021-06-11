@@ -2,7 +2,7 @@
 ## project completed: Ani Hovhannisyan
 
 The project uses:
--HTML
--CSS
--JS
--Normalize
+- HTML
+- CSS
+- JS
+- Normalize
